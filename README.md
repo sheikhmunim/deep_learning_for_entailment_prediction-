@@ -72,7 +72,7 @@ Two-stage training for stability and generalization:
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/deep_learning_assign-2.git
+git clone https://github.com/sheikhmunim/deep_learning_for_entailment_prediction-.git
 cd deep_learning_assign-2
 
 # Create environment
